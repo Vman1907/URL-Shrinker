@@ -1,4 +1,4 @@
-#A Simple URL Shrinker
+# A Simple URL Shrinker
 
 To Start client
 `npm start`
